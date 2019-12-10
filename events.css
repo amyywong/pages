@@ -1,0 +1,40 @@
+
+#title{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 100px;
+  color: black;
+  top: 0%;
+}
+
+#date{
+  font-family: 'Big Shoulders Text', cursive;
+  font-size: 20px;
+  position: absolute;
+  top: 25%;
+  color: black;
+}
+#time{
+  font-family: 'Big Shoulders Text', cursive;
+  font-size: 20px;
+  position: absolute;
+  top: 30%;
+  color: black;
+}
+#kara{
+  position: absolute;
+  top: 40%;
+}
+
+.text{
+  font-family: 'Big Shoulders Text', cursive;
+  font-size: 20px;
+  position: absolute;
+  top: 100%;
+  color: black;
+}
+
+.img{
+  position: absolute;
+	width: 200px;
+	height: 200px;
+}

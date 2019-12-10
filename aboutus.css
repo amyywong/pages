@@ -1,0 +1,14 @@
+#WHO{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 100px;
+  color: black;
+  position: fixed;
+  top: 0%;
+}
+#body{
+  font-family: 'Big Shoulders Text', cursive;
+  font-size: 20px;
+  position: absolute;
+  top: 30%;
+  color: black;
+}
